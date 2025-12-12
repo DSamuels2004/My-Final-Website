@@ -16,7 +16,7 @@ html {
   display: block;
 }
 
-/* Navbar */ 
+/* Navigation bar */ 
 .navbar {
   background: #ffebf3;
   padding: 15px 0;
@@ -43,6 +43,7 @@ html {
   animation: shine 1s ease-in-out;
 }
 
+/* Javascript for navbar shine colors*/
 @keyframes shine {
   0% { box-shadow: 0 0 0 rgba(212, 75, 138, 0); }
   50% { box-shadow: 0 0 20px rgba(212, 75, 138, 0.8); }
@@ -50,7 +51,7 @@ html {
 }
 
 
-/* Image column */
+/* Image column on first page */
 .image-column {
   display: flex;
   flex-direction: column;
@@ -104,7 +105,7 @@ ul {
 }
 
 
-/*YARN TYPES*/
+/*Yarn Pages*/
 
 body {
   font-family: 'Poppins', sans-serif;
