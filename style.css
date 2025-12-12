@@ -60,8 +60,8 @@ html {
 }
 
 .image-column img {
-  width: 295px;
-  height: 295px;
+  width: 350px;
+  height: 350px;
   object-fit: cover;
   border: 2px solid #b24c63;
   border-radius: 8px;
