@@ -56,7 +56,7 @@ html {
   flex-direction: column;
   gap: 10px;
   float: right; /* puts the images on the right */
-  margin-right: 50px;  
+  margin-right: 100px;  
 }
 
 .image-column img {
