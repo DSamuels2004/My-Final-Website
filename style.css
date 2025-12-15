@@ -52,11 +52,13 @@ html {
 
 
 /* Image column on first page */
+
 .image-column {
   display: flex;
   flex-direction: column;
   gap: 10px;
   float: right; /* puts the images on the right */  
+  margin-right: 20px;   /* adjust this number to control the gap */
 }
 
 .image-column img {
