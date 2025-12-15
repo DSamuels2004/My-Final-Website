@@ -56,8 +56,7 @@ html {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  float: right; /* puts the images on the right */
-  items-align: center;  
+  align-items: center;  
 }
 
 .image-column img {
