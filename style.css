@@ -56,7 +56,7 @@ html {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  align-items: center;  
+  align-items: center;
 }
 
 .image-column img {
@@ -69,13 +69,12 @@ html {
 
 /* Padding Boxes */
 .section-box {
-  border: 2px solid #b24c63;  /* dark pastel pink border */
+  border: 2px solid #b24c63;
   border-radius: 8px;
   padding: 15px;
-  background-color: #fff6f8;  /* light pink background */
-  margin-bottom: 20px;
   padding-left: 50px;
-  max-width: 800px; 
+  background-color: #fff6f8;
+  max-width: 800px;
 }
 
 /* Headings */
